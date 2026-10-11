@@ -1,0 +1,9 @@
+{
+  "name": "aschenarena-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aschenarena online 1v1 room-code multiplayer",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.3"},
+  "engines": {"node": ">=20"}
+}
